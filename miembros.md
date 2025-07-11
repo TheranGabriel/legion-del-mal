@@ -22,5 +22,5 @@
 20. Lady Shiva
 21. Giganta
 22. Deadshot
-23. Metamorpho
- 
+23. Scarecrow
+24. Metamorpho
